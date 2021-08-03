@@ -1,0 +1,41 @@
+{
+  "name": "gulp",
+  "description": "Nodejs Module Install ----  cmd CODE :  npm install and gulp  -----",
+  "version": "0.1.2",
+  "homepage": "http://gulpjs.com",
+  "repository": "gulpjs/gulp",
+  "author": "yasino",
+  "dependencies": {
+    "bubleify": "^2.0.0",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-concat": "*",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-iconfont": "^11.0.0",
+    "gulp-iconfont-css": "^3.0.0",
+    "gulp-minify-css": "*",
+    "gulp-rename": "^2.0.0",
+    "gulp-scss-lint": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "path": "*",
+    "swiper": "^6.7.1",
+    "uglifyify": "^5.0.2"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babelify": "^10.0.0",
+    "browser-sync": "^2.26.7",
+    "eslint": "^7.27.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-bro": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "prettier": "2.1.2"
+  }
+}
